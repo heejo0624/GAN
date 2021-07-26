@@ -1,7 +1,7 @@
 # Pytorch로 구현한 GAN 네트워크🎨
 💻#pytorch #gan
 
-### 🟦aae
+## 🟦aae
 ### 🟦acgan
 ### 🟦began
 ### 🟦bgan
