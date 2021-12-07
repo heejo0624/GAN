@@ -1,6 +1,7 @@
 # Pytorch로 구현한 GAN 네트워크🎨
 💻
-# pytorch # gan
+## pytorch 
+## gan
 
 ## 🟦aae  
 Adversarial AutoEncoder  
